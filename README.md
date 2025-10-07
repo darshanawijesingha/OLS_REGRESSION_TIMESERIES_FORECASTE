@@ -24,13 +24,13 @@ However, reality had other plans — the store hit **₨1M/day** a **day earlier
 ## 📷 Visuals
 
 ### 1. 📌 Sales Forecast vs Actual (OLS Trendline)
-![OLS Regression](ols .png)
+![OLS Regression](ols.png)
 
 ### 2. 📈 Day-wise Sales Comparison
 ![Sales Comparison](comparison.png)
 
 ### 3. 📅 118 Day Prediction Milestone
-![118 Day Milestone](118 day.png)
+![118 Day Milestone](118day.png)
 
 
 ---
